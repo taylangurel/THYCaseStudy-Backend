@@ -150,3 +150,13 @@ The database schema is automatically generated and updated based on the entities
       }
       ```
 
+### Running the Project
+
+1. Go to the [Releases](https://github.com/your-repo-name/releases) page.
+2. Download the latest `casestudy-0.0.1-SNAPSHOT.jar`.
+3. Run the project with the following command:
+
+```bash
+java -jar your-project-name.jar
+```
+
